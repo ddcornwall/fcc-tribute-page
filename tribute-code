@@ -1,0 +1,13 @@
+<!--- Because this is hosted on CodePen, this is only the code within the <body> tag. --->
+<div class="container-fluid">
+<div class="panel panel-default">
+    <div class="panel-body">
+  <h1 class="text-center">Mahatma Gandhi</h1>      
+      <h2 class="text-center">The man who showed there are alternatives to violence.</h2>
+<div class="row">
+      <div="col-xs-4"><img src="https://c1.staticflickr.com/3/2907/14716295523_73a383b556_b.jpg" alt="Live as if you were to die tomorrow. Learn as if you were to live forever. Original photo credit: Rousseau"></div>
+<div class="col-xs-4"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Gandhi_London_1906.jpg" alt="Gandhi London 1906. From Wikimedia."></div>
+      </div>
+   </div>
+</div>
+  </div>  
