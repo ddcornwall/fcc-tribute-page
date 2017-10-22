@@ -1,0 +1,79 @@
+<!---Page with many br tags. Displays well enough on desktop but looks very odd on mobile. --->
+<div class="container-fluid">
+<div class="panel panel-default col-sm-8 col-sm-offset-2">
+  
+  <div class="panel-heading">
+    <h1 class="text-center" style="font-size:48px;">Mahatma Gandhi</h1>     
+  <em><h2 class="text-center">The man who showed there are alternatives to violence for fighting injustice.</h2></em>
+
+<!--Add some spacing-->
+<br/><br/><br/>
+
+<div class="panel panel-default col-sm-8 col-sm-offset-2">
+  
+  <div class="panel-body">
+<figure>  
+<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Gandhi_London_1906.jpg" class="center-block img-thumbnail" alt="Gandhi London 1906. From Wikimedia.">
+  <figcaption class="text-center">Gandhi in London, 1906</figcaption>
+  </figure>
+  </div>
+    </div>
+  
+    <!--Add some spacing-->
+<br/><br/><br/>        
+<br/><br/><br/>    
+<br/><br/><br/> 
+<br/><br/><br/>        
+<br/><br/><br/>    
+<br/><br/><br/>
+<br/><br/><br/>
+<br/><br/><br/>
+<br/><br/><br/>    
+   
+
+<p>Gandhi is one of my heroes because he and his followers firmly stood up to their oppressors without violence. He was not passive. He led his people in building alternative systems. Neither he nor most of his followers were dissuaded by imprisonment, beatings or shootings.</p>
+
+    <p>A quote on the power of nonviolence attributed to Gandhi is:</p>
+  <blockquote>
+    First they ridicule you. Then they fight you. Then you win.
+</blockquote>
+
+<p>Gandhi used fasting as an important and powerful tool. Because it often worked for him, many people have used hunger strikes since. Those more recent efforts often fail because they don't follow the same guidelines that Gandhi did. The Metta Center for Nonviolence combed through the writings and practices of Gandhi and came up with these <a href="http://mettacenter.org/definitions/fasting/" target="blank">Five Laws of Fasting</a> that Gandhi observed during his life:</p>
+<ol>  
+<li>The Satyagrahi undertaking a fast must be willing and able to carry it out to its stated conclusion. In the case of a fast unto death, for example, one must really be capable of laying down one’s life if the demands are not met.</li>
+<li>The people to whom the fast is directed must be in some way part of one’s own community. Gandhi actually said, they must be a “lover.” The act loses its meaning if the person to whom it is directed feels no such bond. Throughout his career Gandhi fasted against the British, and also to awaken his fellow Indians.</li>
+<li>The fast must be the last resort.</li>
+<li>The goal of the fast must be reasonable. During the Cold War two Americans fasted “against Eisenhower and Khrushchev” to make them stop the arms race. That fast failed on all counts.</li>
+<li>The fast must be consistent with the rest of one’s campaign, if not one’s life. Irish revolutionists who fasted while in Long Kesh Prison did so only because they could not use their usual violent tactics. Tragically, some of them were simply allowed to die.</li>
+</ol>
+      
+<!--Add some spacing-->
+<br/><br/><br/>    
+
+<h3>Timeline</h3>
+<ul>
+  <li>1869 - Gandhi is born on October 2nd</li>
+  <li>1888 - Entered law studies in London</li>
+  <li>1891 - Passes English Bar, returns to India</li>
+  <li>1893 - Travels to South Africa, begins working for civil rights for Indians</li>
+<li>1906 - Announces strategy of Satyagraha (nonviolence/devotion to the truth) on September 11th</li>
+  <li>1915 - Returns to India, becomes involved with India independence movement</li>
+  <li>1920s - Leads campaigns of non-cooperation with British Raj</li>
+  <li>1930 - Organized Salt March</li>
+  <li>1942 - Organized "Quit India" movement</li>
+  <li>1947 - Indian independence</li>
+  <li>1948 - Murdered by anti-Muslim Hindu extremist on January 30th</li>
+</ul>
+
+<!--Add some spacing-->
+<br/><br/><br/>    
+<h3>Bibliography</h3>
+<ul>
+  <li><a href="https://en.wikipedia.org/wiki/Mahatma_Gandhi" target="blank">Wikipedia entry for Mahatma Gandhi</a></li>
+  <li><a href="http://www.worldcat.org/oclc/702249389">Book, Gandhi the Man by Eknath Easwaran</a></li>
+  <li><a href="https://archive.org/search.php?query=%28%28subject%3A%22Gandhi%22%20OR%20creator%3A%22Gandhi%22%20OR%20description%3A%22Gandhi%22%20OR%20title%3A%22Gandhi%22%29%20OR%20%28%221869-1948%22%20AND%20Gandhi%29%29%20AND%20%28-mediatype:software%29" target="blank">Books by or about Gandhi from Internet Archive</a></li>
+  <li><a href="http://mettacenter.org/definitions/fasting/" target="blank">Fasting, Metta Center</a></li>  
+</ul>
+  </div>
+  </div>
+</div>
