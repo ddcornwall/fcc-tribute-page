@@ -1,3 +1,20 @@
+<!doctype html>
+
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+
+  <title>Mahatma Gandhi - FCC Tribute page</title>
+  <meta name="description" content="Celebration of the life of Mahatma Gandhi, composed as a Free Code Camp (FCC) project. ">
+  <meta name="author" content="Daniel Cornwall">
+
+  <--! replace with Bootstrap link <link rel="stylesheet" href="css/styles.css?v=1.0">  -->
+
+
+</head>
+
+<body>
+
 <!--
 This of my Tribute Page project for Free Code Camp uses things I learned after I submitted the original project. The biggest change was switching from Bootstrap panels to a Jumbotron to contain my text.
 Originally written on CodePen-->
@@ -5,10 +22,10 @@ Originally written on CodePen-->
 <div class="jumbotron" style="margin:60px">
 <div class="container-fluid">
 
-<!---Commenting out prior work with panels  
+<!---Commenting out prior work with panels
   <div class="panel panel-default col-sm-8 col-sm-offset-2"> <div class="panel-heading">
 --->
-    <h1 class="text-center">Mahatma Gandhi</h1>     
+    <h1 class="text-center">Mahatma Gandhi</h1>
   <em><h2 class="text-center">The man who showed there are alternatives to violence for fighting injustice.</h2></em>
 
 <!--Add some spacing-->
@@ -18,10 +35,10 @@ Originally written on CodePen-->
 <img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/Gandhi_London_1906.jpg" alt="Gandhi London 1906. From Wikimedia.">
   <figcaption class="text-center" style="padding:10px">Gandhi in London, 1906</figcaption>
   </figure>
-  
+
     <!--Add some spacing-->
-    <br/>        
-   
+    <br/>
+
 
 <p>Gandhi is one of my heroes because he and his followers firmly stood up to their oppressors without violence. He was not passive. He led his people in building alternative systems. Neither he nor most of his followers were dissuaded by imprisonment, beatings or shootings.</p>
 
@@ -30,20 +47,20 @@ Originally written on CodePen-->
     First they ridicule you. Then they fight you. Then you win.
 </blockquote>
 
-<br/>  
-  
-<h3>Fasting</h3>  
+<br/>
+
+<h3>Fasting</h3>
 <p>Gandhi used fasting as an important and powerful tool. Because it often worked for him, many people have used hunger strikes since. Those more recent efforts often fail because they don't follow the same guidelines that Gandhi did. The Metta Center for Nonviolence combed through the writings and practices of Gandhi and came up with these <a href="http://mettacenter.org/definitions/fasting/" target="blank">Five Laws of Fasting</a> that Gandhi observed during his life:</p>
-<ol>  
+<ol>
 <li>The Satyagrahi undertaking a fast must be willing and able to carry it out to its stated conclusion. In the case of a fast unto death, for example, one must really be capable of laying down one’s life if the demands are not met.</li>
 <li>The people to whom the fast is directed must be in some way part of one’s own community. Gandhi actually said, they must be a “lover.” The act loses its meaning if the person to whom it is directed feels no such bond. Throughout his career Gandhi fasted against the British, and also to awaken his fellow Indians.</li>
 <li>The fast must be the last resort.</li>
 <li>The goal of the fast must be reasonable. During the Cold War two Americans fasted “against Eisenhower and Khrushchev” to make them stop the arms race. That fast failed on all counts.</li>
 <li>The fast must be consistent with the rest of one’s campaign, if not one’s life. Irish revolutionists who fasted while in Long Kesh Prison did so only because they could not use their usual violent tactics. Tragically, some of them were simply allowed to die.</li>
 </ol>
-      
+
 <!--Add some spacing-->
-<br/>    
+<br/>
 
 <h3>Timeline</h3>
 <ul>
@@ -61,14 +78,16 @@ Originally written on CodePen-->
 </ul>
 
 <!--Add some spacing-->
-<br/>    
+<br/>
 
   <h3>Bibliography</h3>
 <ul>
   <li><a href="https://en.wikipedia.org/wiki/Mahatma_Gandhi" target="blank">Wikipedia entry for Mahatma Gandhi</a></li>
   <li><a href="http://www.worldcat.org/oclc/702249389">Book, Gandhi the Man by Eknath Easwaran</a></li>
   <li><a href="https://archive.org/search.php?query=%28%28subject%3A%22Gandhi%22%20OR%20creator%3A%22Gandhi%22%20OR%20description%3A%22Gandhi%22%20OR%20title%3A%22Gandhi%22%29%20OR%20%28%221869-1948%22%20AND%20Gandhi%29%29%20AND%20%28-mediatype:software%29" target="blank">Books by or about Gandhi from Internet Archive</a></li>
-  <li><a href="http://mettacenter.org/definitions/fasting/" target="blank">Fasting, Metta Center</a></li>  
+  <li><a href="http://mettacenter.org/definitions/fasting/" target="blank">Fasting, Metta Center</a></li>
 </ul>
   </div>
   </div>
+  </body>
+  </html>
