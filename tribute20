@@ -8,7 +8,7 @@
   <meta name="description" content="Celebration of the life of Mahatma Gandhi, composed as a Free Code Camp (FCC) project. ">
   <meta name="author" content="Daniel Cornwall">
 
-  <--! replace with Bootstrap link <link rel="stylesheet" href="css/styles.css?v=1.0">  -->
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.7/css/bootstrap.min.css">
 
 
 </head>
